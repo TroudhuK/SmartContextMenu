@@ -2294,7 +2294,7 @@
     <item name="roll_up" value="Enrouler" />
     <item name="change_title" value="Changer le titre" />
     <item name="aero_glass" value="Aero Glass" />
-    <item name="borderless" value="Sans frontières" />
+    <item name="borderless" value="Sans bordure" />
     <item name="dimmer" value="Dimmer" />
     <item name="hide" value="Cacher" />
     <item name="always_on_top" value="Toujours au premier plan" />
